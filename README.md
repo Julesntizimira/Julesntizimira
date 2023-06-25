@@ -1,4 +1,15 @@
-[![MasterHead](https://i.redd.it/zfuyl5lfxi581.gif)](https://rishavchanda.io)
+
+
+<img  align="center" alt="Profile Banner" src="https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a" height="300" width="1400">
+
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=NtizimiraJ" target="blank"><img src="https://i.redd.it/zfuyl5lfxi581.gif" height="36" alt="NtizimiraJ"/></a></p>
+
+<div align="center">
+ 
+  <img src="https://i.redd.it/zfuyl5lfxi581.gif" alt="cover" />
+</div>
+<div align="center">
+  
 <h1 align="center">Hi there, 👋</h1>
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Jules | 💻 Software Engineer | 🛸 Kigali, RWANDA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
