@@ -1,6 +1,7 @@
 [![MasterHead](https://i.redd.it/zfuyl5lfxi581.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there, 👋</h1>
-<h3 align="center"> 👨 Jules | 💻 Software Engineer | 🛸 Kigali, RWANDA </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Jules | 💻 Software Engineer | 🛸 Kigali, RWANDA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 <img align="right" alt="Coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesntizimira&label=Profile%20views&color=0e75b6&style=flat" alt="julesntizimira" /> </p>
@@ -30,4 +31,22 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julesntizimira&show_icons=true&locale=en" alt="julesntizimira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julesntizimira&" alt="julesntizimira" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julesntizimira&" alt="julesntizimira" />
+</p>
+<br>
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Let's ❤️ Code </p>
+<p align="center"><a href="https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/silvernicks" /></a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+<br>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
