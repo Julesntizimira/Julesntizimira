@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i.redd.it/zfuyl5lfxi581.gi)
+[![MasterHead](https://i.redd.it/zfuyl5lfxi581.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there, 👋</h1>
 <h3 align="center"> 👨 Jules | 💻 Software Engineer | 🛸 Kigali, RWANDA </h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
+<img align="right" alt="Coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesntizimira&label=Profile%20views&color=0e75b6&style=flat" alt="julesntizimira" /> </p>
 
