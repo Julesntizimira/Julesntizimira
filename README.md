@@ -13,7 +13,7 @@
 <h1 align="center">Hi there, 👋</h1>
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Jules | 💻 Software Engineer | 🛸 Kigali, RWANDA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-<img align="right" alt="Coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400" alt="Coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesntizimira&label=Profile%20views&color=0e75b6&style=flat" alt="julesntizimira" /> </p>
 
